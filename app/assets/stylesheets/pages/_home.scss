@@ -443,8 +443,6 @@ footer p:last-child {
   padding: 0 10px;
   width: auto;
   grid-row: 4;
-  align-self: end;
-  text-align: center;
   font-size: 40px;
   color: var(--color-5);
   text-shadow: 0 4px var(--color-4);
@@ -454,4 +452,3 @@ footer p:last-child {
 #link-to-project:hover {
   transform: translateY(-10px);
 }
-
